@@ -2,7 +2,7 @@
  Primeiro Repositório do Curso de Git e GitHub
  Repositório Criado obtendo conhecimento no BootCamp e no Site Curso em Video.
 
- Lembrando que temos que aprender com todas as ferramentas, e de forma auto didata possível.
+ Lembrando que temos que aprender com todas as ferramentas e de forma autodidata possível.
 
  Segue Link abaixo das Aulas do Curso em Video lá você aprende fácil pessoal.
 
